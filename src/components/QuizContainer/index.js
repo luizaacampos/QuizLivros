@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable eol-last */
 import styled from 'styled-components';
 
 const QuizContainer = styled.div`

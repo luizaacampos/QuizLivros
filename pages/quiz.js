@@ -57,7 +57,7 @@ function LoadingWidget() {
       </Widget.Header>
 
       <Widget.Content>
-        [Desafio do Loading]
+        Só mais um poquinho, separando as perguntas mais cabeludas...
       </Widget.Content>
     </Widget>
   );
@@ -89,7 +89,7 @@ function QuestionWidget({
         alt="Descrição"
         style={{
           width: '100%',
-          height: '150px',
+          height: '250px',
           objectFit: 'cover',
         }}
         src={question.image}

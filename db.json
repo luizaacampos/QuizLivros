@@ -1,28 +1,184 @@
 {
-    "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "bg": "https://www.linksorocaba.com/wp-content/uploads/2020/08/1598918159_534_10-fundos-com-zoom-HubSpotters-Love.jpeg",
+    "title": "Quiz livros da Luiza",
+    "description": "Teste os seus conhecimentos sobre livros",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://media.giphy.com/media/XZ39zg4naZ1O8/giphy.gif",
+        "title": "Quem escreveu 'Harry Potter'?",
+        "description": "Essa é pra aquecer!!",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "J.R.R. Tolkien",
+          "Terry Pratchett",
+          "J.K. Rowling",
+          "Daniel Radcliffe"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.giphy.com/media/4ZtY6pvsG2HdtPSKiS/giphy.gif",
+        "title": "Livro escrito por George Orwell, muitas vezes considerado uma declaração sobre a supervisão do governo",
+        "description": "'O Grande Irmão está observando você.'",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "1984",
+           "O velho e o mar",
+           "O sol é para todos",
+           "O apanhador no campo de centeio"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/NRW2yP1aoYTsY/giphy.gif",
+        "title": "Em 'Alice no País das Maravilhas' qual o nome do gato de Alice?",
+        "description": "'We are all mad here!!'",
+        "answer": 3,
+        "alternatives": [
+           "Oscar",
+           "Smokey",
+           "Heath",
+           "Dinah"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/9418tPJwKbQ3K/giphy.gif",
+        "title": "Qual escritor Russo escreveu o romance épico 'Guerra e Paz'?",
+        "description": "Essa é para os cults! kkkk",
+        "answer": 2,
+        "alternatives": [
+           "Vladimir Nabokov",
+           "Alexander Pushkin",
+           "Leo Tolstoy",
+           "Fyodor Dostoyevsky"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/3o7abLPoFq6adq1h9m/giphy.gif",
+        "title": "'Elementar, meu caro Watson' é uma frase que, na verdade, nunca foi dita nos livros de 'Sherlock Holmes' escritos por Conan Doyle",
+        "description": "Clááásica",
+        "answer": 1,
+        "alternatives": [
+           "Falso",
+           "Verdadeiro"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/JmxSEUZ3rXRhJkAxoh/giphy.gif",
+        "title": "Qual foi a última mensagem dos golfinhos em 'O guia do mochileiro das galáxias'?",
+        "description": "Essa é fácil, vai...",
+        "answer": 0,
+        "alternatives": [
+           "'Até mais, e obrigado pelos peixes.'",
+           "'Terra dos bravos.'",
+           "'Adeus mundo cruel!'",
+           "'A resposta é 42.'"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/20ANgYG4KfSakvutbO/giphy.gif",
+        "title": "Quem escreveu o romance adolescente 'A culpa é da estrelas'?",
+        "description": "Pros novinhos haha",
+        "answer": 2,
+        "alternatives": [
+           "Stephenie Meyer",
+           "Suzanne Collins",
+           "John Green",
+           "Stephen Chbosky"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/3oKIPku6fonFMEY2aI/giphy.gif",
+        "title": "Quem escreveu o romance 'Moby-Dick'?",
+        "description": "Quero ver acertar essa...",
+        "answer": 1,
+        "alternatives": [
+           "William Golding",
+           "Herman Melville",
+           "William Shakespeare",
+           "J.R.R. Tolkien"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/xTiTnJ4hHhTvdERa1y/giphy.gif",
+        "title": "No livro 'Perdido em Marte' quanto tempo Mark Watney ficou preso em marte (em sóis)?",
+        "description": "--- dias comendo batatas...",
+        "answer": 3,
+        "alternatives": [
+           "765 dias",
+           "401 dias",
+           "324 dias",
+           "549 dias"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/RoajqIorBfSE/giphy.gif",
+        "title": "Sob qual pseudônimo Stephen King publicou 5 livros entre 1977 e 1984?",
+        "description": "Pra galera do terror",
+        "answer": 1,
+        "alternatives": [
+           "J. D. Robb",
+           "Richard Bachman",
+           "Mark Twain",
+           "Lewis Carroll"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/2wYYlHuEw1UcsJYgAA/giphy.gif",
+        "title": "Quem escreveu a série de livros de fantasia 'As Crônicas de Gelo e Fogo'?",
+        "description": "Dica: foi o tio George!",
+        "answer": 2,
+        "alternatives": [
+           "George Lucas",
+           "George Orwell",
+           "George R.R. Martin",
+           "George Eliot"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/rSout6tHX79PG/giphy.gif",
+        "title": "Quantos livros fazem parte da série 'As Crônicas de Nárnia'?",
+        "description": "Faz tempo em haha",
+        "answer": 3,
+        "alternatives": [
+           "8",
+           "6",
+           "5",
+           "7"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/3orif1UsbuqVu5Gbyo/giphy.gif",
+        "title": "Qual o nome do submarino do Capitão Nemo em '20 mil léguas submarinas' de Júlio Verne?",
+        "description": "Não confundir com o Nemo da Dory!",
+        "answer": 0,
+        "alternatives": [
+           "O Nautilus",
+           "O Atlantis",
+           "O Poseidon",
+           "O Netuno"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/eGNPC9HNmMS4M/giphy.gif",
+        "title": "Em 'O Senhor dos Anéis' quem era o pai do anão Gimli?",
+        "description": "Clássico!",
+        "answer": 3,
+        "alternatives": [
+           "Thorlin Oakenshield",
+           "Bombur",
+           "Dwalin",
+           "Gloin"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/I9An1NhP6OQFi/giphy.gif",
+        "title": "Quem escreveu o romance de 1954 'O Senhor das Moscas'?",
+        "description": "Outro que denuncia idade...",
+        "answer": 0,
+        "alternatives": [
+           "William Golding",
+           "Hunter Fox",
+           "F. Scott Fitzgerald",
+           "Stephen King"
         ]
       }
     ],
@@ -31,9 +187,9 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#0d47a1",
-        "secondary": "#29b6f6",
-        "mainBg": "#171B35",
+        "primary": "#b71c1c",
+        "secondary": "#f05545",
+        "mainBg": "#7f0000",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
         "success": "#4CAF50"
