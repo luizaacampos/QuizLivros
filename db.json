@@ -183,7 +183,8 @@
       }
     ],
     "external": [
-      ""
+      "https://darksouls-quiz.gui-leandro.vercel.app/",
+      "https://breaking-bad-quiz.eliasnepo.vercel.app/"
     ],
     "theme": {
       "colors": {
