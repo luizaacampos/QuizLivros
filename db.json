@@ -1,7 +1,7 @@
 {
     "bg": "https://www.linksorocaba.com/wp-content/uploads/2020/08/1598918159_534_10-fundos-com-zoom-HubSpotters-Love.jpeg",
-    "title": "Quiz livros da Luiza",
-    "description": "Teste os seus conhecimentos sobre livros",
+    "title": "Quiz livros",
+    "description": "Teste os seus conhecimentos sobre livros!!",
     "questions": [
       {
         "image": "https://media.giphy.com/media/XZ39zg4naZ1O8/giphy.gif",
@@ -187,11 +187,11 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#b71c1c",
-        "secondary": "#f05545",
-        "mainBg": "#7f0000",
+        "primary": "#d50000",
+        "secondary": "#9b0000",
+        "mainBg": "#ff5131",
         "contrastText": "#FFFFFF",
-        "wrong": "#FF5722",
+        "wrong": "#d50000",
         "success": "#4CAF50"
       },
       "borderRadius": "4px"
