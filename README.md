@@ -1,4 +1,4 @@
-<h1  align="center"><img src="./src/components/QuizLogo" /></h1>
+<h1  align="center"><img src="./public/logo.svg" /></h1>
 
 <p><img  alt="Version"  src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" /></p>
 
